@@ -3,7 +3,7 @@
 
 For some reason when installing zen browser from the `install.sh` script</br>
 Zen Browser dosen't have a offical uninstall method</br>
-So I make this simple uninstall script
+So I made this simple uninstall script
 
 ### How to use
 1. Run the `uninstall.sh` script with
