@@ -8,7 +8,7 @@ So I made this simple uninstall script
 ### How to use
 1. Run the `uninstall.sh` script with
 ```bash
-bash uninstall.sh
+$ bash uninstall.sh
 ```
 2. Reboot to see changes
 3. Your done!
