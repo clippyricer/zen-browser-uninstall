@@ -13,9 +13,7 @@ $ bash uninstall.sh
 2. Reboot to see changes
 3. Your done!
 
-### What this script does
-Table of files/dirs the script delets
-
+### What this script deletes
 | File/Dir |
 | -------- |
 | ~/.tarball-installations/zen* |
